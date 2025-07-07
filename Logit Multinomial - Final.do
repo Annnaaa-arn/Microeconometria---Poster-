@@ -17,8 +17,6 @@ gen lnwage = ln(ingreso+1)
 
 drop ingreso zona
 
-save "base_1111.dta"
-
 *===============
 * Estimaciones
 *===============
